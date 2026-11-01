@@ -60,7 +60,7 @@ The engine applies a Dynamic Loss Given Default (LGD) based on House Price Index
 3. **Modeling:** 3-Tier Temporal Split (Train: 06-14, Val: 15-16, OOT: 17-23). Champion (XGBoost) calibrated against `scale_pos_weight`.
 4. **IFRS 9 Engine:** Implemented 3-stage logic with business rule overrides. ECL = `EAD * PD * Dynamic_LGD`.
 
-**Author:** Raymond Sibanda | [LinkedIn](https://www.linkedin.com/in/raymond-sibanda-91850613b)
+**Author:** Raymond Sibanda | [LinkedIn](https://www.linkedin.com/in/raymond-sibanda-91850613b) |
 FRM | BSc Mathematics | BCom Honors Accountancy
 
 ### How to Run Locally
