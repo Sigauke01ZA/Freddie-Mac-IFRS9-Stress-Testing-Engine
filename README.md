@@ -61,7 +61,7 @@ The engine applies a Dynamic Loss Given Default (LGD) based on House Price Index
 4. **IFRS 9 Engine:** Implemented 3-stage logic with business rule overrides. ECL = `EAD * PD * Dynamic_LGD`.
 
 **Author:** Raymond Sibanda | [LinkedIn](https://www.linkedin.com/in/raymond-sibanda-91850613b)
-FRM | BSc Mathematics | BCom Honors Accounting
+FRM | BSc Mathematics | BCom Honors Accountancy
 
 ### How to Run Locally
 ```bash
